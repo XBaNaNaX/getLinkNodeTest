@@ -1,0 +1,11 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Bright", Helvetica, Arial;
+}
+table {
+    margin-top: 1em;
+}
+
+.github-submit {
+    margin-left: 2%;
+}

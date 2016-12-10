@@ -1,0 +1,37 @@
+{
+  "name": "get-link-node-test",
+  "version": "1.0.0",
+  "description": "get-link-node-test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack && nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xbananax@github.com/XBaNaNaX/getLinkNodeTest.git"
+  },
+  "keywords": [
+    "node",
+    "getlink",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XBaNaNaX/getLinkNodeTest/issues"
+  },
+  "homepage": "https://github.com/XBaNaNaX/getLinkNodeTest#readme",
+  "dependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9",
+    "babel-preset-react": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "express": "^4.14.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
